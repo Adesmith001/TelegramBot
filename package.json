@@ -1,0 +1,22 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for Hall residence to book the common room and desimate information",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello there!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adesmith001/TelegramBot.git"
+  },
+  "author": "Toluwani Somade (adesmith)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adesmith001/TelegramBot/issues"
+  },
+  "homepage": "https://github.com/Adesmith001/TelegramBot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
